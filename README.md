@@ -29,7 +29,7 @@ The Signup UI/UX Design project aims to create an intuitive and visually appeali
 ### 1. Signup Form
 ![Signup Form](signupMobile.png)
 
-### 2. Confirmation Screen
+### 2. Sign In Form
 ![Signin Form](signinMobile.png)
 
 ---
